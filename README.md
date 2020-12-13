@@ -1,1 +1,2 @@
-# crash-test
+# collisionAlgorithm
+Algorithm to detect collision between two objects
